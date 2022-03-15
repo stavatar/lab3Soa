@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="server-one-lab2:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>server-one-lab2</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="One.war">
+      <element id="artifact" artifact-name="server-one-lab2:war exploded" />
+    </root>
+  </artifact>
+</component>

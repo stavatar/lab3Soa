@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="server-one-lab2:war" />
+      <artifact name="server-one-lab2:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4cf6d66-e47f-4684-966a-ae4ebacd31f9" name="Changes" comment="." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/lab2/stavatar/serveronelab2/Repository/CarRepository.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/lab2/stavatar/serveronelab2/Service/HumanBeingService.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/lab2/stavatar/serveronelab2/Exception/Advice.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/lab2/stavatar/serveronelab2/Utils/Message.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/lab2/stavatar/serveronelab2/DAO/HumanBeingDAO.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/lab2/stavatar/serveronelab2/WebConfiguration.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/lab2/stavatar/serveronelab2/ServerOneLab2Application.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/lab2/stavatar/serveronelab2/Controller/AverageSpeedSerlvets.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/lab2/stavatar/serveronelab2/HelloApi.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/application.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/lab2/stavatar/serveronelab2/Controller/MainServlet.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/lab2/stavatar/serveronelab2/Model/car.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/lab2/stavatar/serveronelab2/Model/humanbeing.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="224v3wrHhz2YbekjgKa4UGtAY8b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5459098" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lab2.stavatar.serveronelab2" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn compile" />
+      <command value="mvn clean package" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ServerOneLab2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lab2.stavatar.serveronelab2.ServerOneLab2Application" />
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-1.8 (2)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4cf6d66-e47f-4684-966a-ae4ebacd31f9" name="Changes" comment="" />
+      <created>1639109479451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639109479451</updated>
+      <workItem from="1639109480986" duration="2689000" />
+      <workItem from="1639142459776" duration="1948000" />
+      <workItem from="1639144817951" duration="3445000" />
+      <workItem from="1639168164055" duration="674000" />
+      <workItem from="1639242457269" duration="1198000" />
+      <workItem from="1639284958972" duration="9506000" />
+      <workItem from="1639333008955" duration="11895000" />
+      <workItem from="1639370390256" duration="218000" />
+      <workItem from="1639370622258" duration="713000" />
+      <workItem from="1639738740427" duration="598000" />
+      <workItem from="1639741970387" duration="1201000" />
+      <workItem from="1639926789374" duration="1628000" />
+      <workItem from="1639928437764" duration="693000" />
+      <workItem from="1640200338996" duration="1115000" />
+      <workItem from="1640201475107" duration="909000" />
+      <workItem from="1640202411208" duration="489000" />
+      <workItem from="1640203113257" duration="2036000" />
+      <workItem from="1640233185371" duration="25000" />
+      <workItem from="1640268665078" duration="39000" />
+      <workItem from="1641368002829" duration="1266000" />
+      <workItem from="1641384990685" duration="14942000" />
+      <workItem from="1641929485922" duration="4903000" />
+      <workItem from="1641970500919" duration="38000" />
+      <workItem from="1641993914647" duration="1024000" />
+      <workItem from="1641997043926" duration="1143000" />
+      <workItem from="1642056494830" duration="39000" />
+      <workItem from="1642086374176" duration="5459000" />
+      <workItem from="1642092681873" duration="1825000" />
+      <workItem from="1642142802401" duration="53000" />
+      <workItem from="1642315585429" duration="10265000" />
+      <workItem from="1642402290554" duration="8000" />
+      <workItem from="1642446943880" duration="1003000" />
+      <workItem from="1642481894279" duration="2625000" />
+      <workItem from="1642489577981" duration="29000" />
+      <workItem from="1642504383743" duration="4034000" />
+      <workItem from="1642575702011" duration="602000" />
+      <workItem from="1642584349026" duration="599000" />
+      <workItem from="1642609528888" duration="4425000" />
+      <workItem from="1642668726977" duration="2830000" />
+      <workItem from="1642777969470" duration="599000" />
+      <workItem from="1642787138591" duration="4848000" />
+      <workItem from="1643564891526" duration="3601000" />
+      <workItem from="1643611234674" duration="22000" />
+      <workItem from="1643640864653" duration="984000" />
+      <workItem from="1643705973107" duration="1000" />
+      <workItem from="1643733712404" duration="3614000" />
+      <workItem from="1643796439561" duration="5481000" />
+      <workItem from="1643881044595" duration="1199000" />
+      <workItem from="1643966382059" duration="2404000" />
+      <workItem from="1644050269488" duration="8575000" />
+      <workItem from="1644350098987" duration="1807000" />
+      <workItem from="1644389768882" duration="175000" />
+      <workItem from="1644433562409" duration="599000" />
+      <workItem from="1644476734542" duration="669000" />
+      <workItem from="1644593761231" duration="20591000" />
+      <workItem from="1644656861895" duration="882000" />
+      <workItem from="1644665509288" duration="11000" />
+      <workItem from="1645099916441" duration="71000" />
+      <workItem from="1645273239919" duration="513000" />
+      <workItem from="1645273987418" duration="56000" />
+      <workItem from="1645274872434" duration="615000" />
+      <workItem from="1645279109712" duration="599000" />
+      <workItem from="1645374975473" duration="285000" />
+      <workItem from="1645378406689" duration="606000" />
+      <workItem from="1645949396800" duration="1976000" />
+      <workItem from="1645956339349" duration="1244000" />
+      <workItem from="1645992646067" duration="1675000" />
+      <workItem from="1646686774892" duration="612000" />
+      <workItem from="1647086498760" duration="2460000" />
+      <workItem from="1647176355346" duration="604000" />
+      <workItem from="1647180725483" duration="453000" />
+      <workItem from="1647181196654" duration="17000" />
+      <workItem from="1647233429159" duration="52000" />
+      <workItem from="1647233558784" duration="633000" />
+      <workItem from="1647279334528" duration="8000" />
+      <workItem from="1647279925969" duration="6647000" />
+      <workItem from="1647338869913" duration="2647000" />
+      <workItem from="1647341555696" duration="629000" />
+      <workItem from="1647342212588" duration="277000" />
+      <workItem from="1647342525005" duration="370000" />
+    </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1642842147396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642842147396</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lab2/stavatar/serveronelab2/Controller/DeleteMoodServlets.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lab2/stavatar/serveronelab2/Exception/Advice.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

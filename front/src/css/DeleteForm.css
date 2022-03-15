@@ -1,0 +1,30 @@
+.containerDel {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.item-insert-btn {
+    padding-top: 1%;
+    flex: 0 1 auto;
+}
+
+.item-delete-btn {
+    margin-left: 20%;
+    margin-top: 30%;
+    height: 50%;
+
+
+}
+
+.it{
+    flex: 0 1 auto;
+    margin-left: 5%;
+    width: 100%;
+}
+.item-deleteform {
+    flex:2 1 auto;
+    flex-grow:10;
+
+
+}

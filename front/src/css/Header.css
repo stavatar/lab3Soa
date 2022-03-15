@@ -1,0 +1,72 @@
+.myButton {
+    box-shadow:inset 0px 1px 0px 0px #276873;
+    background: #408c99 linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+    border-radius:6px;
+    border:1px solid #29668f;
+    display:inline-block;
+    cursor:pointer;
+    color: #ffffff;
+
+    font-weight:bold;
+
+    text-decoration:none;
+    text-shadow:0px 1px 0px #3d768a;
+}
+.smFont{
+    font-size:10px;
+    padding:10px 50px !important;
+}
+.bgFont{
+    font-size:15px;
+    padding:10px 50px !important;
+}
+
+.marginLeft{
+    margin-left: 20%;
+}
+.myButton:hover {
+    background: #599bb3 linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+}
+.myButton:active {
+    position:relative;
+    top:1px;
+}
+
+.my-btn-group button {
+    background-color: #04AA6D; /* Green background */
+    border: 1px solid green; /* Green border */
+    color: white; /* White text */
+    padding: 10px 24px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+  /* Set a width if needed */
+    display: inline; /* Make the buttons appear below each other */
+}
+
+.my-btn-group button:not(:last-child) {
+    border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.my-btn-group button:hover {
+    background-color: #3e8e41;
+}
+
+.width-500{
+    width: 500px;
+}
+.margin-top-5{
+    margin-top: 2%;
+}
+.width-300{
+    width: 300px;
+}
+
+.background-nav{
+    background: #687e7a
+}
+
+.left{
+    left: 0px;
+
+}
+

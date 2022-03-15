@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{@coreui/coreui, @popperjs, bootstrap, bootstrap-theme, react, react-bootstrap, react-bootstrap-table, react-bootstrap-table-all, react-dom, react-notifications}" />
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="react-dom" level="application" />
+    <orderEntry type="library" name="react-bootstrap" level="application" />
+    <orderEntry type="library" name="react" level="application" />
+    <orderEntry type="library" name="bootstrap" level="application" />
+    <orderEntry type="library" name="react-notifications" level="application" />
+    <orderEntry type="library" name="react-bootstrap-table" level="application" />
+    <orderEntry type="library" name="bootstrap-theme" level="application" />
+    <orderEntry type="library" name="react-bootstrap-table-all" level="application" />
+    <orderEntry type="library" name="@coreui/coreui" level="application" />
+    <orderEntry type="library" name="@popperjs" level="application" />
+  </component>
+</module>
