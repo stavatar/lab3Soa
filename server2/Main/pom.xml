@@ -29,6 +29,7 @@
             <artifactId>wildfly-naming</artifactId>
             <version>24.0.1.Final</version>
         </dependency>
+
         <dependency>
             <groupId>org.wildfly.bom</groupId>
             <artifactId>jboss-javaee-7.0-with-resteasy</artifactId>
@@ -86,6 +87,7 @@
             <artifactId>postgresql</artifactId>
             <version>42.2.15</version>
         </dependency>
+
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
             <artifactId>log4j-core</artifactId>

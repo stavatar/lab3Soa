@@ -2,12 +2,14 @@ package com.JsonDTO;
 
 import jakarta.xml.bind.annotation.XmlRootElement;
 
+import java.io.Serializable;
+
 @XmlRootElement
-public class UpdateRespDTO {
+public class UpdateRespDTO implements Serializable {
     Long id;
     String fieldName;
     String newValue;
-
+    private static final long serialVersionUID = 1L;
     @Override
     public String toString() {
         return "RequestDTO{" +

@@ -1,6 +1,8 @@
 package com.utils;
 
-public  class Message {
+import java.io.Serializable;
+
+public  class Message  {
     private int code;
     private Object data;
 

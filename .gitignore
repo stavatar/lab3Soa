@@ -1,0 +1,6 @@
+/server2/EJB/target/
+/server1/target/
+/server1/.mvn/
+/server1/.idea/
+/server1/src/main/webapp/
+/front/node_modules/

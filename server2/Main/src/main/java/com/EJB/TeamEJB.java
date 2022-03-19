@@ -1,16 +1,17 @@
 package com.EJB;
 
-import jakarta.ejb.Remote;
+import com.JsonDTO.TeamDTO;
+import jakarta.ejb.Local;
 
+import javax.ws.rs.core.Response;
+import java.util.List;
+import java.util.Set;
+import javax.ejb.Remote;
 @Remote
+@Local
 public interface TeamEJB {
-    public void createTeam();
-
-    public String updateHuman(Long id_human, String newValue, String nameField);
-
-    public void changeMood();
-
-    public void getTeams();
-
-    public String getHuman(Long id);
+    public String createTeam(String nameTeam, Set<Integer> idsHuman);
+    public String test(String nameServer);
+    public String changeMood(int id_team);
+    public String getTeams();
 }

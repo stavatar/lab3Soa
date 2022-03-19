@@ -1,15 +1,12 @@
 package lab2.stavatar.serveronelab2.Service;
 
-import jdk.nashorn.internal.runtime.logging.Logger;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDate;
 import java.time.ZonedDateTime;
 
-import static jdk.nashorn.internal.runtime.regexp.joni.Config.log;
 
 @Service
-@Logger
 public class FilterService {
 
     public Boolean filterNumber(String valueFilter,String action, double current){
@@ -41,32 +38,32 @@ public class FilterService {
                                            .withNano(0);
 
 
-        log.println("valueFilter"+value.toString());
-        log.println("current"+current.toString());
+     //   log.println("valueFilter"+value.toString());
+      //  log.println("current"+current.toString());
 
-        log.println("valueFilter.LOCAL"+value.toLocalDate().toString());
-        log.println("current.LOCAL"+current.toLocalDate().toString());
+     //   log.println("valueFilter.LOCAL"+value.toLocalDate().toString());
+      //  log.println("current.LOCAL"+current.toLocalDate().toString());
 
 
-        log.println("!!!!");
+        //log.println("!!!!");
         switch (action){
             case "=":
-                log.println(current +" = " + value + " IS " +  current.isEqual(value)) ;
+                //  log.println(current +" = " + value + " IS " +  current.isEqual(value)) ;
                 return current.isEqual(value);
             case ">":
-                log.println(current +" > " + value  + " IS " +  current.isAfter(value));
+             //   log.println(current +" > " + value  + " IS " +  current.isAfter(value));
                 return current.isAfter(value);
             case ">=":
-                log.println(current +" >= " + value  + " IS " +  (current.isAfter(value)||current.isEqual(value)));
+               // log.println(current +" >= " + value  + " IS " +  (current.isAfter(value)||current.isEqual(value)));
                 return current.isAfter(value)||current.isEqual(value);
             case "<":
-                log.println(current +" < " + value  + " IS " + current.isBefore(value));
+            //    log.println(current +" < " + value  + " IS " + current.isBefore(value));
                 return current.isBefore(value);
             case "<=":
-                log.println(current +" <= " + value  + " IS " +  (current.isBefore(value)||current.isEqual(value)));
+           //     log.println(current +" <= " + value  + " IS " +  (current.isBefore(value)||current.isEqual(value)));
                 return current.isBefore(value)||current.isEqual(value);
             case "!=":
-                log.println(current +" != " + value  + " IS " +  current.isEqual(value));
+           //     log.println(current +" != " + value  + " IS " +  current.isEqual(value));
                 return !current.isEqual(value);
             default:
                 return true;

@@ -1,11 +1,12 @@
 package com.JsonDTO;
 
 import javax.xml.bind.annotation.XmlRootElement;
+import java.io.Serializable;
 import java.util.Set;
 
 @XmlRootElement
-public class TeamDTO {
-
+public class TeamDTO implements Serializable {
+    private static final long serialVersionUID = 1L;
     private  String nameTeam;
     private Set<Integer> idhumans;
 

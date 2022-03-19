@@ -3,6 +3,7 @@
 /home/stavatar/IdeaProject/University/lab3Soa/server1/src/main/java/lab2/stavatar/serveronelab2/Service/FilterService.java
 /home/stavatar/IdeaProject/University/lab3Soa/server1/src/main/java/lab2/stavatar/serveronelab2/Utils/RequestParam/Main/PUT/PutRequest.java
 /home/stavatar/IdeaProject/University/lab3Soa/server1/src/main/java/lab2/stavatar/serveronelab2/Controller/MainServlet.java
+/home/stavatar/IdeaProject/University/lab3Soa/server1/src/main/java/lab2/stavatar/serveronelab2/MvcConfig.java
 /home/stavatar/IdeaProject/University/lab3Soa/server1/src/main/java/lab2/stavatar/serveronelab2/NotFoundObjException.java
 /home/stavatar/IdeaProject/University/lab3Soa/server1/src/main/java/lab2/stavatar/serveronelab2/Model/util/WeaponType.java
 /home/stavatar/IdeaProject/University/lab3Soa/server1/src/main/java/lab2/stavatar/serveronelab2/HelloApi.java
